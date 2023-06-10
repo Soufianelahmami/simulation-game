@@ -37,21 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
 "native_network_choice":"admob"
   
 
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4Z3st9.webp"},
+  {"desc2":"In recent years, simulation games have taken the gaming industry by storm, captivating players of all ages and backgrounds","photo2":"https://iili.io/H4Z3ZMu.jpg"},
+  {"desc3":" These virtual realms provide a unique opportunity for individuals to step into various roles and experience diverse scenarios.","photo3":"https://iili.io/H4Z3t6b.jpg"},
+  {"desc4":"From managing cities and building empires to piloting spacecraft and exploring distant galaxies, simulation games offer a compelling blend of entertainment and education","photo4":"https://iili.io/H4ZFHAB.jpg"},
+  {"desc5":" In this article, we will delve into the fascinating world of simulation games, exploring their history, types, gameplay mechanics, and their impact on players.","photo5":"https://iili.io/H4Z3mcx.webp"},
+  {"descd":"Simulation games trace their roots back to the early days of video gaming. In the 1970s","photod":"https://iili.io/H4Z3p8Q.webp"}
    ]
  
 }
